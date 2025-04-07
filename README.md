@@ -69,28 +69,6 @@ These ratings suggest a dominance of mature and general-audience content.
 
 ---
 
-## 🖼️ Sample Visual
-
-![Netflix Dashboard](./Netflix%20dashboard%20power%20bi.png)
-
----
-
-## 📥 Output Files
-
-- Power BI Dashboard: `netflix_dashboard.pbix`
-- PDF Report: [`netflix_dashboard.pdf`](./netflix%20dashboard%20pdf.pdf)
-- Presentation-ready visuals included.
-
----
-
-## 🚀 How to Run
-
-1. Clone this repo
-2. Open `netflix_dashboard.pbix` in Power BI
-3. Explore and interact with the visuals!
-
----
-
 ## 🤝 Contributing
 
 Feel free to fork this repo, open issues, or suggest enhancements. Contributions are welcome!
